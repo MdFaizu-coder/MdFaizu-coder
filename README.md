@@ -82,15 +82,21 @@ https://github.com/MdFaizu-coder/AI-health-advisor
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdFaizu-coder&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdFaizu-coder&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
 ## 🏆 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MdFaizu-coder&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MdFaizu-coder&theme=github-dark&hide_border=true" />
+</p>
 
 ## 📈 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdFaizu-coder&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFaizu-coder&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 # 📫 Connect with Me
 
@@ -100,7 +106,7 @@ faizuddinmohammed1207@gmail.com
 
 💼 LinkedIn
 
-https://linkedin.com/in/mohammed-faizuddin-36815730b
+https://www.linkedin.com/in/mohammed-faizuddin-36815730b/
 
 🐙 GitHub
 
