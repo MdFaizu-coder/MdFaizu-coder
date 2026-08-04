@@ -83,7 +83,7 @@ https://github.com/MdFaizu-coder/AI-health-advisor
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdFaizu-coder&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MdFaizu-coder&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## 🏆 GitHub Streak
@@ -95,7 +95,7 @@ https://github.com/MdFaizu-coder/AI-health-advisor
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdFaizu-coder&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFaizu-coder&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ## 🐍 Contribution Snake
