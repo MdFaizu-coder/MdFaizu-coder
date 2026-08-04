@@ -98,6 +98,10 @@ https://github.com/MdFaizu-coder/AI-health-advisor
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdFaizu-coder&theme=github_dark" />
 </p>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/MdFaizu-coder/MdFaizu-coder/output/github-contribution-grid-snake.svg)
+
 # 📫 Connect with Me
 
 📧 Email
