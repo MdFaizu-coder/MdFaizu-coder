@@ -157,6 +157,10 @@ I'm trying to become someone who can be handed a **messy, ambiguous business pro
 
 I'm always interested in Data Science, Machine Learning, AI, open-source collaboration, and real-world problems worth solving.
 
+📧 **Email:** [faizuddinnmohammed1207@gmail.com](mailto:faizuddinnmohammed1207@gmail.com)
+
+💼 **LinkedIn:** [Mohammed Faizuddin](https://www.linkedin.com/in/mohammed-faizuddin-36815730b/)
+
 ⭐ If any of these projects helped you or sparked an idea — a star means a lot.
 
 Thanks for stopping by.
