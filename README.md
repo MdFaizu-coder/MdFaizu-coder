@@ -28,40 +28,9 @@ Not a more accurate model for its own sake — a better decision for a real pers
 <tr>
 <td width="60%" valign="top">
 
-👋 About Me
+## 🧭 How I Approach a Data Problem
 
-🎓 B.E. Computer Science & Engineering (Data Science) @ AMC Engineering College
-
-🧠 Parallel-tracking an AI & Data Science program with Intellipaat
-
-🔍 I like taking data nobody's cleaned yet, and models nobody's evaluated properly
-
-🛠️ Currently moving beyond notebooks — learning to build production-oriented ML workflows
-
-🌱 Deepening statistics + ML fundamentals, not just API calls to sklearn
-
-🤝 Open to Data Science / ML internships, open-source work, and real problems worth solving
-
-</td>
-<td width="40%" valign="top">
-
-⚡ Quick Facts
-
-role:        Data Science Student
-focus:       ML | Forecasting | Analytics
-best_model:  XGBoost
-stack:       Python · SQL · scikit-learn
-learning:    Production ML workflows
-status:      Open to internships 🟢
-
-</td>
-</tr>
-</table>
-
-<br>
-
-🛤️ How I Work — Not Just What I Use
-
+```text
    Business Problem
           │
           ▼
@@ -81,150 +50,113 @@ status:      Open to internships 🟢
           │
           ▼
    Business Impact
+```
 
-<br>
+## 🧰 Technical Focus
 
-🧰 Tech Stack
+### Machine Learning
 
-<div align="center">
+- Supervised Learning
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
+- Model Evaluation
+- Ensemble Methods
+- XGBoost
 
-Languages & Querying
+### AI & Applied GenAI
 
-<img src="https://skillicons.dev/icons?i=python,mysql" />
+- Generative AI applications
+- Google Gemini AI
+- AI-powered applications
+- Prompt Engineering
+- AI-assisted workflows
 
-Data & Analytics
+### Tools
 
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Jupyter` `Git` `GitHub`
 
+---
 
-Machine Learning
+# 🚀 Featured Projects
 
+## 📈 Walmart Retail Sales Forecasting using XGBoost
 
+Machine learning project focused on forecasting Walmart weekly sales using historical sales and economic indicators.
 
-AI & Applied GenAI
+**What I worked on:**
 
+- Full data preprocessing & EDA
+- Feature engineering
+- Benchmarked Linear Regression → Decision Tree → Random Forest → **XGBoost**
+- Model evaluation and comparison
+- Feature importance analysis
+- **Result: 97.39% R²**
 
+`Python` `Pandas` `Scikit-learn` `XGBoost`
 
-Tools
+🔗 [View Repository](https://github.com/MdFaizu-coder/walmart-retail-sales-forecasting-xgboost)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+---
 
-</div>
+## 👥 Customer Segmentation using RFM & K-Means
 
-<br>
+Customer analytics project focused on transforming transactional purchase data into actionable customer segments.
 
-🚀 Featured Projects
+**What I worked on:**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- RFM feature engineering
+- Customer-level behavioral analysis
+- Feature scaling
+- Elbow Method for cluster selection
+- Silhouette validation
+- **5 data-driven customer segments**
+- Segment-specific marketing recommendations
 
-📈 Walmart Retail Sales Forecasting
+`Python` `Pandas` `Scikit-learn` `K-Means` `RFM Analysis`
 
-End-to-end forecasting pipeline predicting Walmart weekly sales from historical data + economic indicators.
+🔗 [View Repository](https://github.com/MdFaizu-coder/customer-segmentation-rfm-kmeans)
 
-Full preprocessing & EDA
+---
 
-Feature engineering
+## 🩺 AI Health Advisor
 
-Benchmarked: Linear Regression → Decision Tree → Random Forest → XGBoost
+An AI-powered web application designed to provide personalized health and nutrition insights.
 
-Best-performing model: XGBoost with feature importance analysis
+**Key features:**
 
-Python Pandas Scikit-learn XGBoost
+- Interactive health dashboard with AI-generated recommendations
+- Food & nutrition analysis
+- Personalized insights
+- Health report generation
+- Generative AI integration
 
-🔗 View Repository
+`React` `TypeScript` `Vite` `Google Gemini AI`
 
-</td>
-<td width="50%" valign="top">
+🔗 [View Repository](https://github.com/MdFaizu-coder/AI-health-advisor)
 
-📊 Customer Segmentation (RFM + K-Means)
+---
 
-Unsupervised segmentation turning raw transactions into actionable customer groups.
+# 🎯 Where I'm Headed
 
-RFM feature engineering
+I'm not trying to be someone who can train a model — plenty of people can do that.
 
-Elbow Method + Silhouette validation
+I'm trying to become someone who can be handed a **messy, ambiguous business problem** and come back with something that's **correct, explainable, and actually gets used.**
 
-5 data-driven customer segments
+**Right now, that means:**
 
-Segment-specific marketing recommendations
+- 📐 Going deeper on statistics — not just calling `.fit()`
+- 🏗️ Learning production ML workflows — versioning, monitoring, deployment, not just Jupyter cells
+- 🧪 Getting rigorous about model evaluation, not just chasing accuracy
+- 🤖 Exploring where GenAI genuinely improves a workflow vs. where it's just noise
 
-Python Scikit-learn Clustering
+---
 
-🔗 View Repository
+# 🤝 Let's Connect
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+I'm always interested in Data Science, Machine Learning, AI, open-source collaboration, and real-world problems worth solving.
 
-🤖 AI Health Advisor
+⭐ If any of these projects helped you or sparked an idea — a star means a lot.
 
-An AI-powered web app delivering personalized health & lifestyle guidance using Generative AI — my first step from "notebook ML" into a real, deployed application.
-
-Interactive health dashboard with AI-generated recommendations
-
-Food & nutrition analysis
-
-Personalized insight and report generation
-
-React TypeScript Vite Google Gemini AI
-
-🔗 View Repository
-
-</td>
-</tr>
-</table>
-
-<br>
-
-📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MdFaizu-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdFaizu-coder&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-🎯 Where I'm Headed
-
-I'm not trying to be someone who can train a model — plenty of people can do that. I'm trying to become someone who can be handed a messy, ambiguous business problem and come back with something that's correct, explainable, and actually gets used.
-
-Right now, that means:
-
-📐 Going deeper on statistics — not just calling .fit()
-
-🏗️ Learning production ML workflows (versioning, monitoring, deployment — not just Jupyter cells)
-
-🧪 Getting rigorous about model evaluation, not just chasing accuracy
-
-🤖 Exploring where GenAI genuinely improves a workflow vs. where it's just noise
-
-<br>
-
-🤝 Let's Connect
-
-<div align="center">
-
-I'm actively looking for Data Science / ML internships, open-source collaborations, and real problems worth working on. If that's you — reach out.
-
-<a href="https://www.linkedin.com/in/mohammed-faizuddin-36815730b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:faizuddinnmohammed1207@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/MdFaizu-coder">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MdFaizu-coder&style=for-the-badge&color=2C5364" alt="Profile views"/>
-
-<br><br>
-
-<i>⭐ If any of these projects helped you or sparked an idea — a star means a lot. Thanks for stopping by.</i>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+Thanks for stopping by.
